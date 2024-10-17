@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 
 # 💫 About Me:
-🔭 I’m currently working on a luxury watch ecommerce website.<br>👯 I’m looking to collaborate on web development projects.<br>🤝 I’m looking for help with flutter based projects.<br>🌱 I’m currently learning flutter  and java.<br>💬 Ask me about<br>⚡ Fun fact i'm a web developer
+🔭 I’m currently working on a luxury watch ecommerce website and another secret website.<br>👯 I’m looking to collaborate on web development projects.<br>🤝 I’m looking for help with flutter based projects.<br>🌱 I’m currently learning flutter  and java.<br>💬 Ask me about<br>⚡ Fun fact i'm a web developer
 
 
 ## 🌐 Socials:
